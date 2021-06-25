@@ -1,0 +1,6 @@
+
+env_variables:
+  TESTVAR_FOO: 100
+
+includes:
+- secrets.yaml
